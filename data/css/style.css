@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(4, 13, 50);
+    color: white;
+}
+
+header{
+    text-align: center;
+    left: 100px;
+    right: 100px;
+}
+
+#titel{
+    text-align: center;
+    font-size: 50px;
+    height: 50px;
+}
+.connected{
+    height: 200px;
+    text-align: center;
+
+}
+
+.start{
+    font-size: 30px;
+}
+
+start.speed{
+    align-self: center;
+}
+#current{
+    margin: 10px;
+}
+button{
+
+    height: 70px;
+    width: 180px;
+    color: rgb(255, 250, 250);
+    font-size: 20px;
+    background-color: rgb(88, 229, 193);
+    border-radius: 10px;
+    border: solid;
+    border-color: rgb(41, 38, 38);
+    margin: 40px;
+    visibility: hidden;
+    
+}
+
+#speed_unit{
+    font-size: 20px;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+#speed{
+    font-size: 85px;
+    margin: 0% 42% 0% 42%;
+    margin-top: 30px;
+    border-bottom: solid;
+}
+
